@@ -230,9 +230,7 @@ Hierarchically i**mplement complex network functions:**
 
 ### Service Model
 
-![Untitled](Computer%20Networking%20note%20picture/Untitled%201.png)
-
-![Untitled](Computer%20Networking%20note%20picture/Untitled%202.png)
+![Untitled](Computer%20Networking%20note%20picture/Untitled%201.png) ![Untitled](Computer%20Networking%20note%20picture/Untitled%202.png)
 
 1. Application layer: Internet application; 报文(message)
 2. Transport layer: Data transfer between hosts; 报文段(segment)
