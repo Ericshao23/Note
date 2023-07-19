@@ -1,29 +1,27 @@
-`<a name="index">`**Index** `</a>`
-
-
-`<a href="#0">`Computer Networking `</a>`
-`<a href="#1">`Main content `</a>`
-`<a href="#2">`Introduction of Computer Network `</a>`
-&emsp;`<a href="#3">`Objective `</a>`
-&emsp;`<a href="#4">`Outline `</a>`
+`<a name="index">`**Index**`</a>`
+`<a href="#0">`Computer Networking`</a>`
+`<a href="#1">`Main content`</a>`
+`<a href="#2">`Introduction of Computer Network`</a>`
+&emsp;`<a href="#3">`Objective`</a>`
+&emsp;`<a href="#4">`Outline`</a>`
 &emsp;`<a href="#5">`1. What's the Internet?`</a>`
 &emsp;`<a href="#6">`2. What's a protocol?`</a>`
-&emsp;`<a href="#7">`3. Network Edge: Distributed Applications and Infrastructure `</a>`
-&emsp;`<a href="#8">`4. Network core: Packet switching, Circuit switching `</a>`
-&emsp;&emsp;`<a href="#9">`Packet Switching: store and forward `</a>`
-&emsp;&emsp;`<a href="#10">`Circuit Switching: Reserve a dedicated circuit for each call: such as the telephone network `</a>`
-&emsp;&emsp;`<a href="#11">`Compare `</a>`
-&emsp;`<a href="#12">`5. Access Network, Physical media `</a>`
-&emsp;&emsp;`<a href="#13">`Access Network `</a>`
-&emsp;&emsp;`<a href="#14">`Physical media `</a>`
-&emsp;`<a href="#15">`6. Internet/ISP structure `</a>`
-&emsp;`<a href="#16">`7. Performance: Packet loss, Latency, Throughput `</a>`
-&emsp;&emsp;`<a href="#17">`Latency `</a>`
-&emsp;&emsp;`<a href="#18">`Packet Loss `</a>`
+&emsp;`<a href="#7">`3. Network Edge: Distributed Applications and Infrastructure`</a>`
+&emsp;`<a href="#8">`4. Network core: Packet switching, Circuit switching`</a>`
+&emsp;&emsp;`<a href="#9">`Packet Switching: store and forward`</a>`
+&emsp;&emsp;`<a href="#10">`Circuit Switching: Reserve a dedicated circuit for each call: such as the telephone network`</a>`
+&emsp;&emsp;`<a href="#11">`Compare`</a>`
+&emsp;`<a href="#12">`5. Access Network, Physical media`</a>`
+&emsp;&emsp;`<a href="#13">`Access Network`</a>`
+&emsp;&emsp;`<a href="#14">`Physical media`</a>`
+&emsp;`<a href="#15">`6. Internet/ISP structure`</a>`
+&emsp;`<a href="#16">`7. Performance: Packet loss, Latency, Throughput`</a>`
+&emsp;&emsp;`<a href="#17">`Latency`</a>`
+&emsp;&emsp;`<a href="#18">`Packet Loss`</a>`
 &emsp;&emsp;`<a href="#19">`Throughput: Rate of transfer between source and destination (data volume/unit time)`</a>`
-&emsp;`<a href="#20">`8. Protocol Hierarchy and Service Model `</a>`
-&emsp;&emsp;`<a href="#21">`Protocol Hierarchy `</a>`
-&emsp;&emsp;`<a href="#22">`Service Model `</a>`
+&emsp;`<a href="#20">`8. Protocol Hierarchy and Service Model`</a>`
+&emsp;&emsp;`<a href="#21">`Protocol Hierarchy`</a>`
+&emsp;&emsp;`<a href="#22">`Service Model`</a>`
 
 # `<a name="0">`Computer Networking`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
