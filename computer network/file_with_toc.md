@@ -1,34 +1,34 @@
-<a name="index">**Index**</a>
-<a href="#0">Computer Networking</a>  
-<a href="#1">Main content</a>  
-<a href="#2">Introduction of Computer Network</a>  
-&emsp;<a href="#3">Objective</a>  
-&emsp;<a href="#4">Outline</a>  
-&emsp;<a href="#5">1. What's the Internet?</a>  
-&emsp;<a href="#6">2. What's a protocol?</a>  
-&emsp;<a href="#7">3. Network Edge: Distributed Applications and Infrastructure</a>  
-&emsp;<a href="#8">4. Network core: Packet switching, Circuit switching</a>  
-&emsp;&emsp;<a href="#9">Packet Switching: store and forward</a>  
-&emsp;&emsp;<a href="#10">Circuit Switching: Reserve a dedicated circuit for each call: such as the telephone network</a>  
-&emsp;&emsp;<a href="#11">Compare</a>  
-&emsp;<a href="#12">5. Access Network, Physical media</a>  
-&emsp;&emsp;<a href="#13">Access Network</a>  
-&emsp;&emsp;<a href="#14">Physical media</a>  
-&emsp;<a href="#15">6. Internet/ISP structure</a>  
-&emsp;<a href="#16">7. Performance: Packet loss, Latency, Throughput</a>  
-&emsp;&emsp;<a href="#17">Latency</a>  
-&emsp;&emsp;<a href="#18">Packet Loss</a>  
-&emsp;&emsp;<a href="#19">Throughput: Rate of transfer between source and destination (data volume/unit time)</a>  
-&emsp;<a href="#20">8. Protocol Hierarchy and Service Model</a>  
-&emsp;&emsp;<a href="#21">Protocol Hierarchy</a>  
-&emsp;&emsp;<a href="#22">Service Model</a>  
+`<a name="index">`**Index** `</a>`
 
 
+`<a href="#0">`Computer Networking `</a>`
+`<a href="#1">`Main content `</a>`
+`<a href="#2">`Introduction of Computer Network `</a>`
+&emsp;`<a href="#3">`Objective `</a>`
+&emsp;`<a href="#4">`Outline `</a>`
+&emsp;`<a href="#5">`1. What's the Internet?`</a>`
+&emsp;`<a href="#6">`2. What's a protocol?`</a>`
+&emsp;`<a href="#7">`3. Network Edge: Distributed Applications and Infrastructure `</a>`
+&emsp;`<a href="#8">`4. Network core: Packet switching, Circuit switching `</a>`
+&emsp;&emsp;`<a href="#9">`Packet Switching: store and forward `</a>`
+&emsp;&emsp;`<a href="#10">`Circuit Switching: Reserve a dedicated circuit for each call: such as the telephone network `</a>`
+&emsp;&emsp;`<a href="#11">`Compare `</a>`
+&emsp;`<a href="#12">`5. Access Network, Physical media `</a>`
+&emsp;&emsp;`<a href="#13">`Access Network `</a>`
+&emsp;&emsp;`<a href="#14">`Physical media `</a>`
+&emsp;`<a href="#15">`6. Internet/ISP structure `</a>`
+&emsp;`<a href="#16">`7. Performance: Packet loss, Latency, Throughput `</a>`
+&emsp;&emsp;`<a href="#17">`Latency `</a>`
+&emsp;&emsp;`<a href="#18">`Packet Loss `</a>`
+&emsp;&emsp;`<a href="#19">`Throughput: Rate of transfer between source and destination (data volume/unit time)`</a>`
+&emsp;`<a href="#20">`8. Protocol Hierarchy and Service Model `</a>`
+&emsp;&emsp;`<a href="#21">`Protocol Hierarchy `</a>`
+&emsp;&emsp;`<a href="#22">`Service Model `</a>`
 
-# <a name="0">Computer Networking</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+# `<a name="0">`Computer Networking`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
-# <a name="1">Main content</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
-   
+# `<a name="1">`Main content`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
+
 - Computer Network and Internet
 - Application Layer
 - Transport Layer
@@ -40,14 +40,14 @@
 - Multimedia Network
 - Network Management
 
-# <a name="2">Introduction of Computer Network</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+# `<a name="2">`Introduction of Computer Network`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
-## <a name="3">Objective</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## `<a name="3">`Objective`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 - Understand basic terminology and concepts
 - Master the basic principles of the network
 
-## <a name="4">Outline</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## `<a name="4">`Outline`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 1. What's the Internet?
 2. What's a protocol?
@@ -58,7 +58,7 @@
 7. Performance: Packet loss, Latency, Throughput
 8. Protocol Hierarchy and Service Model
 
-## <a name="5">1. What's the Internet?</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## `<a name="5">`1. What's the Internet?`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 - From the perspective of specific composition。
   1. Node
@@ -75,11 +75,11 @@
   1. Distributed applications that communicate using communication facilities
   2. The communication infrastructure provides programming interfaces for apps (communication services)
 
-## <a name="6">2. What's a protocol?</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## `<a name="6">`2. What's a protocol?`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 Defines the format and sequence of messages exchanged between two or more communicating entities, and the actions to be taken on message transmission, reception or other events.
 
-## <a name="7">3. Network Edge: Distributed Applications and Infrastructure</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## `<a name="7">`3. Network Edge: Distributed Applications and Infrastructure`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 1. End System(Host)
 2. Client/Server Mode
@@ -101,13 +101,13 @@ Defines the format and sequence of messages exchanged between two or more commun
       3. no flow and congestion control
       4. such as DNS, Streaming Media
 
-## <a name="8">4. Network core: Packet switching, Circuit switching</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## `<a name="8">`4. Network core: Packet switching, Circuit switching`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 **Router mesh network**
 
 ![Untitled](Computer%20Networking%20note%20picture/Untitled.png)
 
-### <a name="9">Packet Switching: store and forward</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### `<a name="9">`Packet Switching: store and forward`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 1. Network bandwidth resources are no longer divided into individual pieces, and all bandwidth is used for transmission
 2. Data transferred between hosts is divided into packets
@@ -133,7 +133,7 @@ Defines the format and sequence of messages exchanged between two or more commun
       1. Each packet has a label (virtual circuit identification ), and the label determines the next hop
       2. The path is determined at call setup and remains the same throughout the call
 
-### <a name="10">Circuit Switching: Reserve a dedicated circuit for each call: such as the telephone network</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### `<a name="10">`Circuit Switching: Reserve a dedicated circuit for each call: such as the telephone network`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 1. Features
    1. End-to-end resources are allocated for calls from source to destination
@@ -144,14 +144,14 @@ Defines the format and sequence of messages exchanged between two or more commun
    2. Time-division multiplexing
    3. Wave-division multiplexing
 
-### <a name="11">Compare</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### `<a name="11">`Compare`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 1. With the same network resources, packet switching allows more users to use the network!
 2. Packet switching is suitable for bursty data transfers that do not require resume calls
 
-## <a name="12">5. Access Network, Physical media</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## `<a name="12">`5. Access Network, Physical media`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
-### <a name="13">Access Network</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### `<a name="13">`Access Network`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 1. Residential Access Network
    1. Modem
@@ -168,7 +168,7 @@ Defines the format and sequence of messages exchanged between two or more commun
 2. Unit Access Network
 3. Wireless Access Network
 
-### <a name="14">Physical media</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### `<a name="14">`Physical media`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 1. guided media
    1. Coaxial Cable
@@ -180,11 +180,11 @@ Defines the format and sequence of messages exchanged between two or more commun
    3. Wide-area
    4. Satellite
 
-## <a name="15">6. Internet/ISP structure</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## `<a name="15">`6. Internet/ISP structure`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
-## <a name="16">7. Performance: Packet loss, Latency, Throughput</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## `<a name="16">`7. Performance: Packet loss, Latency, Throughput`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
-### <a name="17">Latency</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### `<a name="17">`Latency`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 $$
 d_{nodal} = d_{proc} + d_{trans} + d_{prop}+d_{queue}
@@ -210,20 +210,20 @@ $$
    1. Check for bit-level errors
    2. Examine packet headers and decide where to direct the packet
 
-### <a name="18">Packet Loss</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### `<a name="18">`Packet Loss`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 1. A link has limited queue buffer capacity
 2. When a packet arrives at a full queue, the packet will be lost
 3. Lost packets may be retransmitted by a previous node or source system, or not retransmitted at all
 
-### <a name="19">Throughput: Rate of transfer between source and destination (data volume/unit time)</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### `<a name="19">`Throughput: Rate of transfer between source and destination (data volume/unit time)`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 1. Instantaneous throughput: rate at a point in time
 2. average throughput: average over a long period of time
 
-## <a name="20">8. Protocol Hierarchy and Service Model</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+## `<a name="20">`8. Protocol Hierarchy and Service Model`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
-### <a name="21">Protocol Hierarchy</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### `<a name="21">`Protocol Hierarchy`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
 Hierarchically i**mplement complex network functions:**
 
@@ -250,11 +250,9 @@ Hierarchically i**mplement complex network functions:**
       1. Service: The ability of low-level entities to provide communication between them to upper-level entities is operated through primitives, vertical
       2. Protocol: A set of rules that need to be followed in the process of mutual communication between peer entities, level
 
-### <a name="22">Service Model</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
+### `<a name="22">`Service Model`</a><a style="float:right;text-decoration:none;" href="#index">`[Top]`</a>`
 
-![Untitled](Computer%20Networking%20note%20picture/Untitled%201.png)
-
-![Untitled](Computer%20Networking%20note%20picture/Untitled%202.png)
+![Untitled](Computer%20Networking%20note%20picture/Untitled%201.png)![Untitled](https://file+.vscode-resource.vscode-cdn.net/e%3A/Desktop/Note/computer%20network/Computer%20Networking%20note%20picture/Untitled%202.png)
 
 1. Application layer: Internet application; 报文(message)
 2. Transport layer: Data transfer between hosts; 报文段(segment)
